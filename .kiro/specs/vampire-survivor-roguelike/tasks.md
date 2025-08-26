@@ -12,14 +12,31 @@
   - 编写配置文件加载和验证的单元测试
   - _需求: 7.1, 7.2, 7.3_
 
-- [ ] 2. 实现核心组件系统
-  - [ ] 2.1 创建HealthComponent组件
+- [-] 2. 实现核心组件系统
+
+
+  - [x] 2.1 创建HealthComponent组件
+
+
+
+
+
+
+
     - 编写HealthComponent脚本，包含生命值管理和伤害处理
     - 实现生命值变化信号和死亡检测
     - 创建HealthComponent的单元测试
     - _需求: 1.4, 4.3_
 
-  - [ ] 2.2 创建StatsComponent组件
+  - [x] 2.2 创建StatsComponent组件
+
+
+
+
+
+
+
+
     - 实现StatsComponent，支持基础属性和修改器系统
     - 编写属性计算逻辑，支持加法和乘法修改器
     - 实现属性变化信号系统

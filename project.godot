@@ -21,6 +21,10 @@ ConfigManager="*res://scripts/managers/ConfigManager.gd"
 SaveManager="*res://scripts/managers/SaveManager.gd"
 GameManager="*res://scripts/managers/GameManager.gd"
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/gut/plugin.cfg")
+
 [input]
 
 move_up={
