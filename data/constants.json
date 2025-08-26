@@ -1,0 +1,18 @@
+{
+  "game": {
+    "base_exp_requirement": 10,
+    "exp_scaling_factor": 1.2,
+    "max_level": 100,
+    "enemy_spawn_interval": 2.0,
+    "difficulty_scaling": 0.1
+  },
+  "ui": {
+    "effect_choice_count": 3,
+    "upgrade_display_time": 5.0
+  },
+  "performance": {
+    "max_enemies": 200,
+    "max_projectiles": 500,
+    "cleanup_interval": 10.0
+  }
+}

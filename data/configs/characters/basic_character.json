@@ -1,0 +1,13 @@
+{
+  "id": "basic_character",
+  "name": "基础角色",
+  "description": "平衡的新手角色",
+  "base_stats": {
+    "max_health": 100,
+    "move_speed": 150,
+    "pickup_range": 50
+  },
+  "starting_weapon": "basic_gun",
+  "sprite_path": "res://sprites/characters/basic.png",
+  "special_ability": null
+}

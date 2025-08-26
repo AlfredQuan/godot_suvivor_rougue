@@ -1,0 +1,15 @@
+{
+  "id": "damage_boost",
+  "name": "伤害提升",
+  "description": "增加10%武器伤害",
+  "rarity": "common",
+  "max_stacks": 5,
+  "effect_type": "stat_modifier",
+  "effect_data": {
+    "stat": "damage",
+    "modifier_type": "multiply",
+    "value": 1.1
+  },
+  "prerequisites": [],
+  "exclusions": []
+}

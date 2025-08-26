@@ -1,0 +1,16 @@
+{
+  "id": "basic_gun",
+  "name": "基础枪械",
+  "type": "projectile",
+  "base_stats": {
+    "damage": 10,
+    "fire_rate": 1.0,
+    "range": 200,
+    "projectile_speed": 300
+  },
+  "evolution": {
+    "required_level": 8,
+    "evolved_weapon": "advanced_gun"
+  },
+  "projectile_scene": "res://weapons/projectiles/BasicBullet.tscn"
+}

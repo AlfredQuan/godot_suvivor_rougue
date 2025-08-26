@@ -1,0 +1,13 @@
+{
+  "id": "basic_enemy",
+  "name": "基础敌人",
+  "base_stats": {
+    "max_health": 20,
+    "move_speed": 80,
+    "damage": 5,
+    "exp_reward": 1
+  },
+  "ai_type": "chase",
+  "sprite_path": "res://sprites/enemies/basic.png",
+  "spawn_weight": 1.0
+}
